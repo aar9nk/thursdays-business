@@ -1,8 +1,8 @@
-import AsyncQuote from "./AsyncQuote";
+import WhatWeNeed from './WhatWeNeed';
 
-function App() {
+var App = function() {
   return (
-    <AsyncQuote />
+    <WhatWeNeed />
   );
 }
 
